@@ -1,8 +1,4 @@
-# Thee.js Thumbnail Test
+3D Three Test
 
-## npm install
-
-## npm start
-
-DOCS:
-https://threejs.org/docs/
+Deploy:
+https://facundorago-3d-test.netlify.app/
